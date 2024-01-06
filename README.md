@@ -1,5 +1,5 @@
 - 🐻 Fernando Salamanca
-- ⭐ I’m a musician and full-stack developer (React, TS, .Net,, C#)
+- ⭐ I’m a musician and full-stack developer 
 - 📚 Currently deepening my knowledge on software architecture and design
 - 👀 Love music in general, nature, martial arts and archery
 
